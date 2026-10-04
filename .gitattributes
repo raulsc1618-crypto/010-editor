@@ -1,0 +1,15 @@
+package-lock.json linguist-generated
+
+public/* linguist-vendored
+
+*.jpeg binary
+vendor/* linguist-vendored
+src/**/*.tsx linguist-detectable
+
+*.yaml linguist-detectable=false
+
+Cargo.lock linguist-generated
+
+*.tsx linguist-detectable
+
+# eof 97736e6f
